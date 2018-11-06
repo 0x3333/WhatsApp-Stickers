@@ -11,10 +11,6 @@ Just checkout and run on your iPhone, you don't need a Developer Account to run 
 ![Screen 1](https://raw.githubusercontent.com/0x3333/WhatsApp-Stickers/master/.github/screen1.png)
 ![Screen 2](https://raw.githubusercontent.com/0x3333/WhatsApp-Stickers/master/.github/screen2.png)
 ![Screen 3](https://raw.githubusercontent.com/0x3333/WhatsApp-Stickers/master/.github/screen3.png)
-![Screen 4](https://raw.githubusercontent.com/0x3333/WhatsApp-Stickers/master/.github/screen4.png)
-![Screen 5](https://raw.githubusercontent.com/0x3333/WhatsApp-Stickers/master/.github/screen5.png)
-![Screen 6](https://raw.githubusercontent.com/0x3333/WhatsApp-Stickers/master/.github/screen6.png)
-![Screen 7](https://raw.githubusercontent.com/0x3333/WhatsApp-Stickers/master/.github/screen7.png)
 
 ## Sources:
 
