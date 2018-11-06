@@ -1,0 +1,552 @@
+{
+    "ios_app_store_link": "",
+    "android_play_store_link": "",
+    "sticker_packs": [
+        {
+            "identifier": "0x3333-dilmae",
+            "name": "Dilmãe",
+            "publisher": "Tercio Gaudencio Filho",
+            "tray_image_file": "tray-Dilmãe.png",
+            "publisher_website": "https://github.com/0x3333/WhatsApp-Stickers",
+            "privacy_policy_website": "",
+            "license_agreement_website": "",
+            "stickers": [
+                {
+                    "image_file": "01_Dilmãe_👆.webp",
+                    "emojis": ["👆"]
+                },
+                {
+                    "image_file": "02_Dilmãe_👍.webp",
+                    "emojis": ["👍"]
+                },
+                {
+                    "image_file": "03_Dilmãe_😩.webp",
+                    "emojis": ["😩"]
+                },
+                {
+                    "image_file": "04_Dilmãe_👓.webp",
+                    "emojis": ["👓"]
+                },
+                {
+                    "image_file": "05_Dilmãe_💩.webp",
+                    "emojis": ["💩"]
+                },
+                {
+                    "image_file": "06_Dilmãe_😑.webp",
+                    "emojis": ["😑"]
+                },
+                {
+                    "image_file": "07_Dilmãe_😺.webp",
+                    "emojis": ["😺"]
+                },
+                {
+                    "image_file": "08_Dilmãe_😧.webp",
+                    "emojis": ["😧"]
+                },
+                {
+                    "image_file": "09_Dilmãe_❤.webp",
+                    "emojis": ["❤️"]
+                }
+            ]
+        },
+        {
+            "identifier": "0x3333-gretchen1",
+            "name": "Gretchen 1",
+            "publisher": "Tercio Gaudencio Filho",
+            "tray_image_file": "tray-Gretchen1.png",
+            "publisher_website": "https://github.com/0x3333/WhatsApp-Stickers",
+            "privacy_policy_website": "",
+            "license_agreement_website": "",
+            "stickers": [
+                {
+                    "image_file": "01_Gretchen_😅.webp",
+                    "emojis": ["😅"]
+                },
+                {
+                    "image_file": "02_Gretchen_💃.webp",
+                    "emojis": ["💃"]
+                },
+                {
+                    "image_file": "03_Gretchen_💂.webp",
+                    "emojis": ["💂"]
+                },
+                {
+                    "image_file": "04_Gretchen_🙎.webp",
+                    "emojis": ["🙎"]
+                },
+                {
+                    "image_file": "05_Gretchen_😎.webp",
+                    "emojis": ["😎"]
+                },
+                {
+                    "image_file": "08_Gretchen_😓.webp",
+                    "emojis": ["😓"]
+                },
+                {
+                    "image_file": "09_Gretchen_👩.webp",
+                    "emojis": ["👩"]
+                },
+                {
+                    "image_file": "10_Gretchen_📱.webp",
+                    "emojis": ["📱"]
+                },
+                {
+                    "image_file": "11_Gretchen_💋.webp",
+                    "emojis": ["💋"]
+                },
+                {
+                    "image_file": "12_Gretchen_👀.webp",
+                    "emojis": ["👀"]
+                },
+                {
+                    "image_file": "13_Gretchen_💋.webp",
+                    "emojis": ["💋"]
+                },
+                {
+                    "image_file": "14_Gretchen_😕.webp",
+                    "emojis": ["😕"]
+                },
+                {
+                    "image_file": "16_Gretchen_😢.webp",
+                    "emojis": ["😢"]
+                },
+                {
+                    "image_file": "17_Gretchen_😶.webp",
+                    "emojis": ["😶"]
+                },
+                {
+                    "image_file": "18_Gretchen_😌.webp",
+                    "emojis": ["😌"]
+                },
+                {
+                    "image_file": "19_Gretchen_😐.webp",
+                    "emojis": ["😐"]
+                },
+                {
+                    "image_file": "20_Gretchen_😏.webp",
+                    "emojis": ["😏"]
+                },
+                {
+                    "image_file": "23_Gretchen_⚡.webp",
+                    "emojis": ["⚡"]
+                },
+                {
+                    "image_file": "24_Gretchen_😎.webp",
+                    "emojis": ["😎"]
+                },
+                {
+                    "image_file": "26_Gretchen_💂.webp",
+                    "emojis": ["💂"]
+                },
+                {
+                    "image_file": "27_Gretchen_🙈.webp",
+                    "emojis": ["🙈"]
+                },
+                {
+                    "image_file": "30_Gretchen_😐.webp",
+                    "emojis": ["😐"]
+                },
+                {
+                    "image_file": "31_Gretchen_😌.webp",
+                    "emojis": ["😌"]
+                },
+                {
+                    "image_file": "36_Gretchen_😡.webp",
+                    "emojis": ["😡"]
+                },
+                {
+                    "image_file": "37_Gretchen_😢.webp",
+                    "emojis": ["😢"]
+                },
+                {
+                    "image_file": "39_Gretchen_💋.webp",
+                    "emojis": ["💋"]
+                },
+                {
+                    "image_file": "40_Gretchen_😘.webp",
+                    "emojis": ["😘"]
+                },
+                {
+                    "image_file": "43_Gretchen_🌸.webp",
+                    "emojis": ["🌸"]
+                },
+                {
+                    "image_file": "44_Gretchen_🤔.webp",
+                    "emojis": ["🤔"]
+                },
+                {
+                    "image_file": "45_Gretchen_🌸.webp",
+                    "emojis": ["🌸"]
+                }
+            ]
+        },
+        {
+            "identifier": "0x3333-gretchen2",
+            "name": "Gretchen 2",
+            "publisher": "Tercio Gaudencio Filho",
+            "tray_image_file": "tray-Gretchen2.png",
+            "publisher_website": "https://github.com/0x3333/WhatsApp-Stickers",
+            "privacy_policy_website": "",
+            "license_agreement_website": "",
+            "stickers": [
+                {
+                    "image_file": "07_Gretchen_💃.webp",
+                    "emojis": ["💃"]
+                },
+                {
+                    "image_file": "15_Gretchen_💃.webp",
+                    "emojis": ["💃"]
+                },
+                {
+                    "image_file": "22_Gretchen_🍕.webp",
+                    "emojis": ["🍕"]
+                },
+                {
+                    "image_file": "25_Gretchen_🙍.webp",
+                    "emojis": ["🙍"]
+                },
+                {
+                    "image_file": "32_Gretchen_😎.webp",
+                    "emojis": ["😎"]
+                },
+                {
+                    "image_file": "33_Gretchen_💁.webp",
+                    "emojis": ["💁"]
+                },
+                {
+                    "image_file": "41_Gretchen_🙊.webp",
+                    "emojis": ["🙊"]
+                },
+                {
+                    "image_file": "42_Gretchen_😈.webp",
+                    "emojis": ["😈"]
+                }
+            ]
+        },
+        {
+            "identifier": "0x3333-queen1",
+            "name": "Queen Elizabeth II - 1",
+            "publisher": "Tercio Gaudencio Filho",
+            "tray_image_file": "tray-Queen1.png",
+            "publisher_website": "https://github.com/0x3333/WhatsApp-Stickers",
+            "privacy_policy_website": "",
+            "license_agreement_website": "",
+            "stickers": [
+                {
+                    "image_file": "01_Queen_😁.webp",
+                    "emojis": ["😁"]
+                },
+                {
+                    "image_file": "02_Queen_😘.webp",
+                    "emojis": ["😘"]
+                },
+                {
+                    "image_file": "03_Queen_👍.webp",
+                    "emojis": ["👍"]
+                },
+                {
+                    "image_file": "04_Queen_😨.webp",
+                    "emojis": ["😨"]
+                },
+                {
+                    "image_file": "05_Queen_👋.webp",
+                    "emojis": ["👋"]
+                },
+                {
+                    "image_file": "07_Queen_😈.webp",
+                    "emojis": ["😈"]
+                },
+                {
+                    "image_file": "08_Queen_🎉.webp",
+                    "emojis": ["🎉"]
+                },
+                {
+                    "image_file": "12_Queen_🙄.webp",
+                    "emojis": ["🙄"]
+                },
+                {
+                    "image_file": "13_Queen_👌.webp",
+                    "emojis": ["👌"]
+                },
+                {
+                    "image_file": "14_Queen_😟.webp",
+                    "emojis": ["😟"]
+                },
+                {
+                    "image_file": "16_Queen_☝.webp",
+                    "emojis": ["☝"]
+                },
+                {
+                    "image_file": "18_Queen_✌.webp",
+                    "emojis": ["✌"]
+                },
+                {
+                    "image_file": "20_Queen_☺️.webp",
+                    "emojis": ["☺️"]
+                },
+                {
+                    "image_file": "21_Queen_✋.webp",
+                    "emojis": ["✋"]
+                },
+                {
+                    "image_file": "23_Queen_😁.webp",
+                    "emojis": ["😁"]
+                },
+                {
+                    "image_file": "27_Queen_😬.webp",
+                    "emojis": ["😬"]
+                },
+                {
+                    "image_file": "28_Queen_😭.webp",
+                    "emojis": ["😭"]
+                },
+                {
+                    "image_file": "29_Queen_🤦.webp",
+                    "emojis": ["🤦"]
+                },
+                {
+                    "image_file": "30_Queen_🙈.webp",
+                    "emojis": ["🙈"]
+                },
+                {
+                    "image_file": "31_Queen_😴.webp",
+                    "emojis": ["😴"]
+                },
+                {
+                    "image_file": "32_Queen_😡.webp",
+                    "emojis": ["😡"]
+                },
+                {
+                    "image_file": "33_Queen_👏.webp",
+                    "emojis": ["👏"]
+                }
+            ]
+        },
+        {
+            "identifier": "0x3333-queen2",
+            "name": "Queen Elizabeth II - 2",
+            "publisher": "Tercio Gaudencio Filho",
+            "tray_image_file": "tray-Queen2.png",
+            "publisher_website": "https://github.com/0x3333/WhatsApp-Stickers",
+            "privacy_policy_website": "",
+            "license_agreement_website": "",
+            "stickers": [
+                {
+                    "image_file": "06_Queen_👠.webp",
+                    "emojis": ["👠"]
+                },
+                {
+                    "image_file": "09_Queen_😉.webp",
+                    "emojis": ["😉"]
+                },
+                {
+                    "image_file": "10_Queen_😌.webp",
+                    "emojis": ["😌"]
+                },
+                {
+                    "image_file": "19_Queen_👍.webp",
+                    "emojis": ["👍"]
+                },
+                {
+                    "image_file": "11_Queen_🙅.webp",
+                    "emojis": ["🙅"]
+                },
+                {
+                    "image_file": "15_Queen_🍰.webp",
+                    "emojis": ["🍰"]
+                },
+                {
+                    "image_file": "17_Queen_⚡.webp",
+                    "emojis": ["⚡"]
+                },
+                {
+                    "image_file": "22_Queen_⛓.webp",
+                    "emojis": ["⛓"]
+                },
+                {
+                    "image_file": "24_Queen_😧.webp",
+                    "emojis": ["😧"]
+                },
+                {
+                    "image_file": "25_Queen_💄.webp",
+                    "emojis": ["💄"]
+                },
+                {
+                    "image_file": "26_Queen_😵.webp",
+                    "emojis": ["😵"]
+                },
+                {
+                    "image_file": "34_Queen_🖐.webp",
+                    "emojis": ["🖐"]
+                },
+                {
+                    "image_file": "35_Queen_😌.webp",
+                    "emojis": ["😌"]
+                }
+            ]
+        },
+        {
+            "identifier": "0x3333-freud1",
+            "name": "Sigmund Freud 1",
+            "publisher": "Tercio Gaudencio Filho",
+            "tray_image_file": "tray-Freud1.png",
+            "publisher_website": "https://github.com/0x3333/WhatsApp-Stickers",
+            "privacy_policy_website": "",
+            "license_agreement_website": "",
+            "stickers": [
+                {
+                    "image_file": "01_Freud_😂.webp",
+                    "emojis": ["😂"]
+                },
+                {
+                    "image_file": "02_Freud_😘.webp",
+                    "emojis": ["😘"]
+                },
+                {
+                    "image_file": "03_Freud_👍.webp",
+                    "emojis": ["👍"]
+                },
+                {
+                    "image_file": "04_Freud_😨.webp",
+                    "emojis": ["😨"]
+                },
+                {
+                    "image_file": "05_Freud_👋.webp",
+                    "emojis": ["👋"]
+                },
+                {
+                    "image_file": "07_Freud_📢.webp",
+                    "emojis": ["📢"]
+                },
+                {
+                    "image_file": "08_Freud_🌞.webp",
+                    "emojis": ["🌞"]
+                },
+                {
+                    "image_file": "09_Freud_💸.webp",
+                    "emojis": ["💸"]
+                },
+                {
+                    "image_file": "11_Freud_😏.webp",
+                    "emojis": ["😏"]
+                },
+                {
+                    "image_file": "12_Freud_😯.webp",
+                    "emojis": ["😯"]
+                },
+                {
+                    "image_file": "13_Freud_😑.webp",
+                    "emojis": ["😑"]
+                },
+                {
+                    "image_file": "14_Freud_😇.webp",
+                    "emojis": ["😇"]
+                },
+                {
+                    "image_file": "16_Freud_🎉.webp",
+                    "emojis": ["🎉"]
+                },
+                {
+                    "image_file": "18_Freud_💢.webp",
+                    "emojis": ["💢"]
+                },
+                {
+                    "image_file": "20_Freud_😴.webp",
+                    "emojis": ["😴"]
+                },
+                {
+                    "image_file": "21_Freud_🍴.webp",
+                    "emojis": ["🍴"]
+                },
+                {
+                    "image_file": "23_Freud_🔕.webp",
+                    "emojis": ["🔕"]
+                },
+                {
+                    "image_file": "24_Freud_☔.webp",
+                    "emojis": ["☔"]
+                },
+                {
+                    "image_file": "27_Freud_😛.webp",
+                    "emojis": ["😛"]
+                },
+                {
+                    "image_file": "28_Freud_😜.webp",
+                    "emojis": ["😜"]
+                },
+                {
+                    "image_file": "29_Freud_😐.webp",
+                    "emojis": ["😐"]
+                },
+                {
+                    "image_file": "32_Freud_✈.webp",
+                    "emojis": ["✈"]
+                },
+                {
+                    "image_file": "33_Freud_🌈.webp",
+                    "emojis": ["🌈"]
+                },
+                {
+                    "image_file": "34_Freud_🤔.webp",
+                    "emojis": ["🤔"]
+                },
+                {
+                    "image_file": "35_Freud_😿.webp",
+                    "emojis": ["😿"]
+                }
+            ]
+        },
+        {
+            "identifier": "0x3333-freud2",
+            "name": "Sigmund Freud 2",
+            "publisher": "Tercio Gaudencio Filho",
+            "tray_image_file": "tray-Freud2.png",
+            "publisher_website": "https://github.com/0x3333/WhatsApp-Stickers",
+            "privacy_policy_website": "",
+            "license_agreement_website": "",
+            "stickers": [
+                {
+                    "image_file": "06_Freud_💝.webp",
+                    "emojis": ["💝"]
+                },
+                {
+                    "image_file": "10_Freud_👯.webp",
+                    "emojis": ["👯"]
+                },
+                {
+                    "image_file": "15_Freud_😬.webp",
+                    "emojis": ["😬"]
+                },
+                {
+                    "image_file": "17_Freud_😌.webp",
+                    "emojis": ["😌"]
+                },
+                {
+                    "image_file": "19_Freud_☝.webp",
+                    "emojis": ["☝"]
+                },
+                {
+                    "image_file": "22_Freud_😒.webp",
+                    "emojis": ["😒"]
+                },
+                {
+                    "image_file": "25_Freud_😁.webp",
+                    "emojis": ["😁"]
+                },
+                {
+                    "image_file": "26_Freud_😬.webp",
+                    "emojis": ["😬"]
+                },
+                {
+                    "image_file": "30_Freud_🍸.webp",
+                    "emojis": ["🍸"]
+                },
+                {
+                    "image_file": "31_Freud_💔.webp",
+                    "emojis": ["💔"]
+                }
+            ]
+        }
+    ]
+}
+
